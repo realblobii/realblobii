@@ -13,4 +13,6 @@ I'm always looking for a helping hand on this project! Drop a PR or issue anytim
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Stats%3A)](https://git.io/typing-svg)
 
-![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=realblobii&theme=github_dark)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realblobii&theme=zenburn)
+![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=realblobii&theme=zenburn)
+![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=realblobii&theme=zenburn&utcOffset=8)
