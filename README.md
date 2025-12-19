@@ -1,6 +1,5 @@
-## Hi there 👋
 > [!IMPORTANT]
-> I'm blobii! I'm a game developer working primary in C and C++!
+> - 👋 Hi, I'm blobii! I'm a game developer working primary in C and C++!
 > - 😄 Pronouns: <u>she/her<u>
 > - 🌱 I’m  learning more and more C++ game development every day!
 > - 📫 You can reach me at [realblobii@proton.me](mailto:realblobii@proton.me)!
