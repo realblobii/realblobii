@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=About+me%3A)](https://git.io/typing-svg)
 
 > [!IMPORTANT]
-> - 👋 Hi, I'm blobii! I'm a game developer working primary in C and C++!
+> - 👋 Hi, I'm blobii! I'm a game developer working primary in C, C++, and C#! 
 > - 😄 Pronouns: <u>she/her<u>
-> - 🌱 I’m  learning more and more C++ game development every day!
+> - 🌱 I’m  learning more and more about godot every day!
 > - 📫 You can reach me at [realblobii@proton.me](mailto:realblobii@proton.me)!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Projects%3A)](https://git.io/typing-svg)
