@@ -7,8 +7,7 @@
 > - 📫 You can reach me at [realblobii@proton.me](mailto:realblobii@proton.me)!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Projects%3A)](https://git.io/typing-svg)
-
-trying to write a game in [godot](https://github.com/godotengine/godot) using c#
+Creating a curses-based tree-structured todo/proj management app in pure C called [wandoo](https://codeberg.org/blobii/wandoo)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Stats%3A)](https://git.io/typing-svg)
 
