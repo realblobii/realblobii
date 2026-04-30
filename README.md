@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Projects%3A)](https://git.io/typing-svg)
 
-Creating a curses-based tree-structured todo/proj management app in pure C called [wandoo](https://codeberg.org/blobii/wandoo)
+Creating a curses-based tree-structured todo/proj management app in pure C called [wandoo](https://github.com/realblobii/wandoo)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Stats%3A)](https://git.io/typing-svg)
 
